@@ -15,3 +15,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vortex864&theme=dark&background=000000)](https://git.io/streak-stats)
 
+---
+Other Useless Information
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex864)](https://github.com/anuraghazra/github-readme-stats)
